@@ -1,4 +1,4 @@
-# OpenTimestamps Calendar Server
+    # OpenTimestamps Calendar Server
 
 This package provides the `otsd` daemon, a calendar server which provides
 aggregation, Bitcoin timestamping, and remote calendar services for
